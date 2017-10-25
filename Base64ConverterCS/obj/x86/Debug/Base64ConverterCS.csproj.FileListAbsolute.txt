@@ -1,0 +1,7 @@
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\bin\Debug\Base64Converter.exe
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\bin\Debug\Base64Converter.pdb
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64ConverterCS.csprojResolveAssemblyReference.cache
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Example.CmdResources.resources
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64ConverterCS.csproj.GenerateResource.Cache
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64Converter.exe
+C:\Users\itatarov\Desktop\C#,VB\Base64ConverterCS\obj\x86\Debug\Base64Converter.pdb
